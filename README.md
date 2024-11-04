@@ -5,7 +5,7 @@
 - grok for images
 - runway ml for videos from images
 - capcut for auto generated voice over and editing
-
+https://vt.tiktok.com/ZSjMKpATt/
 
 main prompt 
 '''
@@ -22,7 +22,7 @@ also create prompts for images to be shown in the video. copy the style of extra
 - eleven labs for auto generated voice over
 - suno ai for background score
 - capcut for editing 
-
+https://vt.tiktok.com/ZSjMKg5UG/
 prompt for script is copy paste a large article and ask to summarise to make video using similar as india prompt 
 
 
@@ -31,5 +31,5 @@ prompt for script is copy paste a large article and ask to summarise to make vid
 - grok for images
 - runway ml for videos from images
 - capcut for auto generated voice over and editing
-
+https://vt.tiktok.com/ZSjMKXEn1/
 prompt is same as india prompt 
